@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Test mod for mc legends.",
+    "min_engine_version": [1, 16, 0],
+    "name": "Test",
+    "uuid": "3c5556ab-a846-4556-8766-a774000beeb0",
+    "version": [0, 0, 1]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "1a895ada-4a74-4b11-be5a-100fea52d1ec",
+      "version": [1, 0, 0]
+    }
+  ]
+}

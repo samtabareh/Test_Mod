@@ -1,0 +1,22 @@
+{
+  "format_version": "1.13.0",
+  "code:place_block": {
+    "description": {
+      "identifier": "badger:feature_block_sculk"
+    },
+    "enforce_survivability_rules": false,
+    "enforce_placement_rules": false,
+    "places_block": "badger:block_sculk",
+    "may_attach_to": {
+      "bottom": [
+        "badger:block_sculk",
+        "badger:block_dirt",
+        "minecraft:grass"
+      ]
+    },
+
+    "may_replace": [
+      "minecraft:air"
+    ]
+  }
+}

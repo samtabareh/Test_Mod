@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Test Mod for Minecraft Legends.",
+    "min_engine_version": [1, 16, 0],
+    "name": "Test",
+    "uuid":"8632ba56-6932-4f86-a1f0-b2a17ca4b52e",
+    "version": [0, 0, 1]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid":"ac61d2ef-913e-4e19-99c6-667dd3049606",
+      "version": [1, 0, 0]
+    }
+  ]
+}
